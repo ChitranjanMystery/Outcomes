@@ -1,0 +1,5 @@
+Greedy vs. Heuristic Algorithm | Baeldung on Computer ScienceA heuristic algorithm is a problem-solving technique that uses shortcuts to find a near-optimal solution to a complex problem. Heuristic algorithms are often used when classic methods are too slow or fail to find a solution.
+
+Heuristics are nothing new, they play an important role in our daily lives, in both problem-solving and data-driven decision-making (DDDM). As nowadays, the world is full of information, and our brains are only capable of processing a certain amount of it, heuristics help us a lot in this sense. Because if you would try to analyze every single aspect of every situation or decision, you would never get anything done.
+
+We take thousands of decisions every single day and most of them we don’t really think about, we “know” how to behave in certain situations based on our experience and that’s what heuristics are about. When we are trying to solve a problem or make a decision, we often turn to these mental shortcuts when we need a quick solution.
